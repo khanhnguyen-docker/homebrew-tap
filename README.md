@@ -11,3 +11,4 @@ brew tap docker/tap
 | Cask | Description        |
 | ---- | ------------------ |
 | `sbx` | Docker Sandboxes |
+| `dockside` | Dockside, the console and CLI for MCP Gateway Enterprise |
